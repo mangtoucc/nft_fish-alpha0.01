@@ -1,10 +1,10 @@
 # nft_fish-alpha0.01
 
-Vision
+## Vision
 
 Alpha0.01
 
-BUIDL Description
+## BUIDL Description
 
 NFT.FISH, a fully decentralized game for players to mint collectible NFT fish, breeding and mine FISH tokens, exchange, fight with other players to grab their tokens, and much more funny entertainments.
 
